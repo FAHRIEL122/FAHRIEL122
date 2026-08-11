@@ -19,17 +19,36 @@
 ---
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    FAHRIEL.OS // BOOT                      ║
-╠══════════════════════════════════════════════════════════════╣
-║ USER       : FAHRIEL122                                     ║
-║ ROLE       : STUDENT DEVELOPER                              ║
-║ LOCATION   : INDONESIA                                      ║
-║ MODE       : BUILD / LEARN                                  ║
-║ INTERFACE  : WEB · MOBILE · BACKEND · UI/UX                 ║
-║ SYSTEMS    : HARDWARE · OS · NETWORKING                     ║
-║ STATUS     : ● ONLINE                                       ║
-╚══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│  FAHRIEL122 // PERSONAL NODE                                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│   ███████╗ █████╗ ██╗  ██╗██████╗ ██╗███████╗██╗                  │
+│   ██╔════╝██╔══██╗██║  ██║██╔══██╗██║██╔════╝██║                  │
+│   █████╗  ███████║███████║██████╔╝██║█████╗  ██║                  │
+│   ██╔══╝  ██╔══██║██╔══██║██╔══██╗██║██╔══╝  ██║                  │
+│   ██║     ██║  ██║██║  ██║██║  ██║██║███████╗███████╗             │
+│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝             │
+│                                                                     │
+│   STUDENT DEVELOPER / INDONESIA                                    │
+│                                                                     │
+│   ┌─ SYSTEM ─────────────────────────────────────────────────────┐  │
+│   │                                                             │  │
+│   │  USER        FAHRIEL122                                     │  │
+│   │  STATUS      ● ONLINE                                       │  │
+│   │  MODE        BUILD / LEARN                                  │  │
+│   │  DOMAIN      WEB · MOBILE · BACKEND · UI/UX                 │  │
+│   │  SYSTEMS     HARDWARE · OS · NETWORKING                     │  │
+│   │                                                             │  │
+│   └─────────────────────────────────────────────────────────────┘  │
+│                                                                     │
+│   > building digital systems                                       │
+│   > experimenting with technology                                  │
+│   > learning through projects                                     │
+│                                                                     │
+│   [ SYSTEM READY ]                                                 │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ## `01 / IDENTITY PROTOCOL`
@@ -67,9 +86,7 @@ SYSTEMS      PC Assembly · Troubleshooting · OS · Networking
 ```
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,laravel,nodejs,express,nextjs,flutter,mysql,sqlite,git,github,vscode,figma" />
-
 </div>
 
 ---
@@ -92,14 +109,10 @@ SYSTEMS      PC Assembly · Troubleshooting · OS · Networking
 ## `05 / GITHUB TELEMETRY`
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=FAHRIEL122&show_icons=true&hide_border=true&theme=github_dark&bg_color=050505&title_color=00F0FF&text_color=CBD5E1&icon_color=FF2BD6" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHRIEL122&layout=compact&hide_border=true&theme=github_dark&bg_color=050505&title_color=00F0FF&text_color=CBD5E1" />
-
 <br><br>
-
 <img src="https://streak-stats.demolab.com?user=FAHRIEL122&theme=dark&background=050505&border=1C2733&ring=00F0FF&fire=FF2BD6&currStreakLabel=00F0FF" />
-
 </div>
 
 ---
