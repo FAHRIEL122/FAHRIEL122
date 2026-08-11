@@ -1,3 +1,11 @@
+███████╗ █████╗ ██╗  ██╗██████╗ ██╗███████╗██╗
+██╔════╝██╔══██╗██║  ██║██╔══██╗██║██╔════╝██║
+█████╗  ███████║███████║██████╔╝██║█████╗  ██║
+██╔══╝  ██╔══██║██╔══██║██╔══██╗██║██╔══╝  ██║
+██║     ██║  ██║██║  ██║██║  ██║██║███████╗███████╗
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050505,55:10061A,100:B026FF&section=header&text=MUHAMMAD%20FAHRIEL&fontColor=FFFFFF&fontSize=58&fontAlignY=54&animation=fadeIn" width="100%" alt="Muhammad Fahriel" />
