@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050505,55:10061A,100:B026FF&section=header&text=F%2F122&fontColor=FFFFFF&fontSize=86&fontAlignY=56&animation=fadeIn" width="100%" alt="F/122" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050505,55:10061A,100:B026FF&section=header&text=MUHAMMAD%20FAHRIEL&fontColor=FFFFFF&fontSize=58&fontAlignY=54&animation=fadeIn" width="100%" alt="Muhammad Fahriel" />
 
 # MUHAMMAD FAHRIEL KURNIAWAN PUTRA
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://fahriel122.github.io/FAHRIEL122/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0A080D?style=for-the-badge&logoColor=fff&labelColor=0A080D&color=B026FF" alt="Portfolio"></a>
+<a href="https://fahriel122.github.io/FAHRIEL122/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0A080D?style=for-the-badge&labelColor=0A080D&color=B026FF" alt="Portfolio"></a>
 <a href="https://github.com/FAHRIEL122?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PROJECTS-0A080D?style=for-the-badge&labelColor=0A080D&color=7D26FF" alt="Projects"></a>
 <a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/"><img src="https://img.shields.io/badge/CONNECT-0A080D?style=for-the-badge&labelColor=0A080D&color=E75CFF" alt="LinkedIn"></a>
 
