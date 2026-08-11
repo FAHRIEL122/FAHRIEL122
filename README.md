@@ -10,6 +10,7 @@
 
 <a href="https://fahrIel122.github.io/FAHRIEL122/" target="_blank"><img src="https://img.shields.io/badge/ENTER_DIGITAL_WORKSPACE-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=07101c"></a>
 <a href="https://github.com/FAHRIEL122?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <br><br>
 
@@ -169,7 +170,7 @@ SOFTWARE
 <div align="center">
 
 <a href="https://github.com/FAHRIEL122"><img src="https://img.shields.io/badge/GitHub-FAHRIEL122-161B22?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Fahriel%20Kurniawan%20Putra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <br><br>
 
