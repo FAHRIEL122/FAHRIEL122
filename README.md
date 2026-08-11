@@ -1,39 +1,43 @@
 <div align="center">
 
-# <span style="color:#b026ff">MUHAMMAD FAHRIEL KURNIAWAN PUTRA</span>
+# <span style="color:#b026ff">F/122</span>
 
-### `STUDENT DEVELOPER` · `DIGITAL BUILDER` · `SYSTEMS EXPLORER`
+## MUHAMMAD FAHRIEL KURNIAWAN PUTRA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&width=720&lines=BUILDING+DIGITAL+SYSTEMS;WEB+%2F+MOBILE+%2F+BACKEND+%2F+UI%2FUX;LEARNING+THROUGH+PROJECTS;BUILD+%E2%86%92+DEBUG+%E2%86%92+LEARN+%E2%86%92+SHIP" alt="typing animation" />
+`STUDENT DEVELOPER` · `SOFTWARE / SYSTEMS` · `INDONESIA`
 
-`F/122` · `INDONESIA` · `STUDENT DEVELOPER` · `● BUILDING`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1000&color=B026FF&center=true&vCenter=true&width=760&lines=BUILDING+DIGITAL+PRODUCTS;WEB+%2F+MOBILE+%2F+BACKEND;DESIGNING+SYSTEMS+THROUGH+PROJECTS;BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+LEARN+%E2%86%92+SHIP" alt="Fahriel typing animation" />
 
-<a href="https://fahriel122.github.io/FAHRIEL122/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-B026FF?style=for-the-badge&labelColor=050505&color=B026FF" /></a>
-<a href="https://github.com/FAHRIEL122?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-E75CFF?style=for-the-badge&labelColor=050505&color=E75CFF" /></a>
-<a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/"><img src="https://img.shields.io/badge/LINKEDIN-9B4DFF?style=for-the-badge&labelColor=050505&color=9B4DFF" /></a>
+`● BUILDING` &nbsp;&nbsp; `FAHRIEL122` &nbsp;&nbsp; `06 / 2026`
+
+<a href="https://fahriel122.github.io/FAHRIEL122/"><img src="https://img.shields.io/badge/PORTFOLIO-0B0B0F?style=for-the-badge&logoColor=FFFFFF&labelColor=0B0B0F&color=B026FF" alt="Portfolio"></a>
+<a href="https://github.com/FAHRIEL122?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0B0B0F?style=for-the-badge&labelColor=0B0B0F&color=7D26FF" alt="Projects"></a>
+<a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/"><img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&labelColor=0B0B0F&color=E75CFF" alt="LinkedIn"></a>
 
 </div>
 
 ---
 
-## `01 / PROFILE`
+## `01 / IDENTITY`
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  F/122                                                                 │
-├────────────────────────────────────────────────────────────────────────┤
-│  NAME        MUHAMMAD FAHRIEL KURNIAWAN PUTRA                         │
-│  ROLE        STUDENT DEVELOPER                                        │
-│  LOCATION    INDONESIA                                                │
-│  FOCUS       SOFTWARE · WEB · APPLICATIONS                            │
-│  ALSO        HARDWARE · OS · NETWORKING                               │
-│  STATUS      ● BUILDING                                               │
-└────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  F/122                                                               │
+│                                                                      │
+│  NAME       MUHAMMAD FAHRIEL KURNIAWAN PUTRA                        │
+│  ROLE       STUDENT DEVELOPER                                       │
+│  LOCATION   INDONESIA                                               │
+│  FOCUS      SOFTWARE · WEB · APPLICATIONS                           │
+│  ALSO       HARDWARE · OS · NETWORKING                              │
+│  STATUS     ● BUILDING                                              │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-I'm Fahriel, a vocational high-school student interested in software development and the systems behind digital products.
+I'm Fahriel, a vocational high-school student who likes turning ideas into working digital systems.
 
-I learn by **building, experimenting, debugging, and iterating** — moving between frontend interfaces, backend logic, databases, mobile development, hardware, operating systems, and basic networking.
+My learning process is project-driven: design something, build it, break it, understand the problem, and improve the result. I move between interfaces, application logic, databases, mobile development, and the systems underneath them.
 
 > `BUILD → BREAK → DEBUG → UNDERSTAND → IMPROVE`
 
@@ -41,22 +45,65 @@ I learn by **building, experimenting, debugging, and iterating** — moving betw
 
 ## `02 / SELECTED WORK`
 
-| NODE | PROJECT | DOMAIN | STACK |
-|:---:|---|---|---|
-| `01` | **[NEOVOX](https://github.com/FAHRIEL122/NEOVOX)** | Digital Product | Web · UI/UX |
-| `02` | **[UANGIN](https://github.com/FAHRIEL122/uangin)** | Application | App · Database |
-| `03` | **[SMART ATTENDANCE](https://github.com/FAHRIEL122/Smart-Attendance-System)** | System | Web · Data |
-| `04` | **[WISATA KOTA LOMBOK](https://github.com/FAHRIEL122/WisataKotaLombok)** | Information System | Laravel · PHP · MySQL |
-| `05` | **[PAVELKSTORE](https://github.com/FAHRIEL122/PavelkStore)** | Store System | CRUD · Web |
-| `06` | **[FLUTTER NOTES](https://github.com/FAHRIEL122/flutter_aplikasi_catatan_dan_penyimpanan)** | Mobile | Flutter · SQLite |
+### `01` — NEOVOX
+**Digital Product · Web · UI/UX**
+
+A web project focused on product presentation, interface structure, and modern interaction design.
+
+**[ OPEN PROJECT ↗ ](https://github.com/FAHRIEL122/NEOVOX)**
 
 ---
 
-## `03 / TECHNOLOGY`
+### `02` — SMART ATTENDANCE
+**System · Web · Data**
+
+An attendance-system project exploring application workflows, data management, and practical system requirements.
+
+**[ OPEN PROJECT ↗ ](https://github.com/FAHRIEL122/Smart-Attendance-System)**
+
+---
+
+### `03` — UANGIN
+**Application · Data**
+
+An application experiment focused on managing information and building a practical user workflow.
+
+**[ OPEN PROJECT ↗ ](https://github.com/FAHRIEL122/uangin)**
+
+---
+
+### `04` — WISATA KOTA LOMBOK
+**Information System · Laravel · PHP · MySQL**
+
+A web information-system project built around structured data and application workflows.
+
+**[ OPEN PROJECT ↗ ](https://github.com/FAHRIEL122/WisataKotaLombok)**
+
+---
+
+### `05` — PAVELKSTORE
+**Store System · CRUD · Web**
+
+A practical store-management project covering CRUD flows and application data.
+
+**[ OPEN PROJECT ↗ ](https://github.com/FAHRIEL122/PavelkStore)**
+
+---
+
+### `06` — FLUTTER NOTES
+**Mobile · Flutter · SQLite**
+
+A mobile notes application experiment using local storage and structured CRUD operations.
+
+**[ OPEN PROJECT ↗ ](https://github.com/FAHRIEL122/flutter_aplikasi_catatan_dan_penyimpanan)**
+
+---
+
+## `03 / STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,laravel,nodejs,express,nextjs,flutter,mysql,sqlite,git,github,vscode,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,laravel,nodejs,express,nextjs,flutter,mysql,sqlite,git,github,vscode,figma&perline=9" alt="Technology stack" />
 
 </div>
 
@@ -71,94 +118,108 @@ SYSTEMS      PC Assembly · Troubleshooting · OS · Networking
 
 ---
 
-## `04 / CURRENT FOCUS`
+## `04 / CURRENTLY BUILDING`
 
 ```text
-┌─ ACTIVE ───────────────────────────────────────────────────────────────┐
-│                                                                        │
-│  [●] MODERN WEB DEVELOPMENT                                           │
-│  [●] BACKEND ENGINEERING                                              │
-│  [●] DATABASE SYSTEMS                                                  │
-│  [●] UI / UX                                                            │
-│  [●] MOBILE DEVELOPMENT                                                │
-│  [●] HARDWARE & SYSTEMS                                                │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────┬──────────────────────────┐
+│ WEB DEVELOPMENT               │ ● ACTIVE                 │
+│ BACKEND ENGINEERING           │ ● ACTIVE                 │
+│ DATABASE SYSTEMS              │ ● ACTIVE                 │
+│ UI / UX                       │ ● ACTIVE                 │
+│ MOBILE DEVELOPMENT            │ ● ACTIVE                 │
+│ HARDWARE & SYSTEMS            │ ● ACTIVE                 │
+└───────────────────────────────┴──────────────────────────┘
 ```
 
-The goal is straightforward: turn experiments and school projects into increasingly complete, maintainable applications.
+The goal is not to collect technologies. It is to understand how they work together well enough to build useful, maintainable products.
 
 ---
 
-## `05 / GITHUB ACTIVITY`
+## `05 / GITHUB SIGNAL`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FAHRIEL122&show_icons=true&hide_border=true&bg_color=050505&title_color=B026FF&text_color=D9D3DF&icon_color=E75CFF" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHRIEL122&layout=compact&hide_border=true&bg_color=050505&title_color=E75CFF&text_color=D9D3DF" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=FAHRIEL122&show_icons=true&hide_border=true&bg_color=050505&title_color=B026FF&text_color=D8D3DE&icon_color=E75CFF&ring_color=B026FF" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHRIEL122&layout=compact&hide_border=true&bg_color=050505&title_color=E75CFF&text_color=D8D3DE" height="170" alt="Top languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=FAHRIEL122&theme=dark&hide_border=true&background=050505&ring=B026FF&fire=E75CFF&currStreakLabel=B026FF&sideLabels=8B8194&dates=8B8194" />
+<img src="https://streak-stats.demolab.com?user=FAHRIEL122&theme=dark&hide_border=true&background=050505&ring=B026FF&fire=E75CFF&currStreakLabel=B026FF&sideLabels=81798A&dates=81798A" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## `06 / SYSTEM LAYERS`
+## `06 / SYSTEM MAP`
 
 ```text
                               F/122
                                 │
                 ┌───────────────┼───────────────┐
                 │               │               │
-             SOFTWARE          DATA          HARDWARE
+             SOFTWARE          DATA          SYSTEMS
                 │               │               │
-           WEB · APP · API   SQL · DB       PC · OS
-           UI/UX · BACKEND   ERD · LRS      NETWORK
-                │               │               │
-                └───────────────┴───────────────┘
+          ┌─────┼─────┐     SQL · DB      ┌─────┼─────┐
+          │     │     │     ERD · LRS      │     │     │
+         WEB   APP   API                  PC    OS   NET
+          │     │     │                    │     │     │
+          └─────┴─────┴────────────────────┴─────┴─────┘
                                 │
                          BUILD / DEBUG
 ```
 
-Understanding the layers underneath a product matters just as much as making the interface look good.
+The interface is only one layer. Understanding the data, logic, infrastructure, and hardware around a product is part of the work.
 
 ---
 
 ## `07 / DEVELOPMENT LOOP`
 
+<div align="center">
+
 ```text
-        IDEA
-         │
-         ▼
-       DESIGN
-         │
-         ▼
-        BUILD ─────────┐
-         │             │
-         ▼             │
-        DEBUG ◄────────┘
-         │
-         ▼
-        LEARN
-         │
-         ▼
-        SHIP
+     IDEA
+      ↓
+    DESIGN
+      ↓
+     BUILD
+      ↓
+     BREAK
+      ↓
+     DEBUG
+      ↓
+     LEARN
+      ↓
+     SHIP
 ```
+
+</div>
+
+Every project is another iteration of the same loop.
+
+---
+
+## `08 / CONNECT`
+
+<div align="center">
+
+# LET'S BUILD.
+
+`GITHUB` · `LINKEDIN` · `PORTFOLIO`
+
+<a href="https://github.com/FAHRIEL122">GITHUB ↗</a> &nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/">LINKEDIN ↗</a> &nbsp; · &nbsp;
+<a href="https://fahriel122.github.io/FAHRIEL122/">PORTFOLIO ↗</a>
+
+<br><br>
+
+`● BUILDING` &nbsp;&nbsp; `F/122` &nbsp;&nbsp; `MUHAMMAD FAHRIEL KURNIAWAN PUTRA`
+
+</div>
 
 ---
 
 <div align="center">
 
-## `LET'S BUILD.`
-
-`● SYSTEM ONLINE` · `FAHRIEL122`
-
-<a href="https://fahriel122.github.io/FAHRIEL122/">OPEN PORTFOLIO ↗</a>
-
-<br><br>
-
-<sub>MUHAMMAD FAHRIEL KURNIAWAN PUTRA · 2026</sub>
+`FAHRIEL122 / STUDENT DEVELOPER / INDONESIA`
 
 </div>
