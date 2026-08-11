@@ -1,178 +1,187 @@
 <div align="center">
 
-# `FAHRIEL // 122`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:08151A,100:050505&text=FAHRIEL122&fontColor=00F0FF&fontSize=54&fontAlignY=38&desc=PERSONAL%20CYBERPUNK%20NODE&descColor=FF2BD6&descAlignY=63&animation=twinkling" width="100%" />
 
-### `STUDENT DEVELOPER` · `DIGITAL BUILDER` · `SYSTEM EXPLORER`
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║  FAHRIEL.OS // NIGHT CITY NETWORK                                 ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   ███████╗ █████╗ ██╗  ██╗██████╗ ██╗███████╗██╗                  ║
+║   ██╔════╝██╔══██╗██║  ██║██╔══██╗██║██╔════╝██║                  ║
+║   █████╗  ███████║███████║██████╔╝██║█████╗  ██║                  ║
+║   ██╔══╝  ██╔══██║██╔══██║██╔══██╗██║██╔══╝  ██║                  ║
+║   ██║     ██║  ██║██║  ██║██║  ██║██║███████╗███████╗             ║
+║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝             ║
+║                                                                      ║
+║   [ USER ] FAHRIEL122       [ REGION ] INDONESIA                   ║
+║   [ ROLE ] STUDENT DEV      [ STATUS ] ● ONLINE                    ║
+║                                                                      ║
+║   > booting developer profile...                                    ║
+║   > loading projects...                                             ║
+║   > mounting technology matrix...                                   ║
+║   > connection established.                                         ║
+║                                                                      ║
+║   [████████████████████████████████████████████████████] 100%       ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=680&lines=INITIALIZING+FAHRIEL.OS...;BUILDING+DIGITAL+SYSTEMS;WEB+%2F+MOBILE+%2F+BACKEND+%2F+SYSTEMS;STATUS%3A+LEARNING+%2F+BUILDING" alt="FAHRIEL typing animation" />
-
-`[ NODE: FAHRIEL122 ]` · `[ REGION: INDONESIA ]` · `[ STATUS: ONLINE ]`
-
-<br>
-
-<a href="https://fahriel122.github.io/FAHRIEL122/"><img src="https://img.shields.io/badge/ENTER_DIGITAL_WORKSPACE-00F0FF?style=for-the-badge&logoColor=050505"></a>
-<a href="https://github.com/FAHRIEL122?tab=repositories"><img src="https://img.shields.io/badge/PROJECT_DATABASE-FF2BD6?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/"><img src="https://img.shields.io/badge/LINKEDIN-B7FF00?style=for-the-badge&logo=linkedin&logoColor=050505"></a>
+<a href="https://fahriel122.github.io/FAHRIEL122/"><img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20NIGHT%20NODE-00F0FF?style=for-the-badge&labelColor=050505&color=00F0FF"></a>
+<a href="https://github.com/FAHRIEL122?tab=repositories"><img src="https://img.shields.io/badge/%E2%96%A3%20PROJECT%20DATABASE-FF2BD6?style=for-the-badge&labelColor=050505&color=FF2BD6"></a>
+<a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/"><img src="https://img.shields.io/badge/%E2%86%97%20LINKEDIN-B7FF00?style=for-the-badge&labelColor=050505&color=B7FF00"></a>
 
 </div>
 
 ---
 
+## `// 01 — IDENTITY`
+
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  FAHRIEL122 // PERSONAL NODE                                      │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│   ███████╗ █████╗ ██╗  ██╗██████╗ ██╗███████╗██╗                  │
-│   ██╔════╝██╔══██╗██║  ██║██╔══██╗██║██╔════╝██║                  │
-│   █████╗  ███████║███████║██████╔╝██║█████╗  ██║                  │
-│   ██╔══╝  ██╔══██║██╔══██║██╔══██╗██║██╔══╝  ██║                  │
-│   ██║     ██║  ██║██║  ██║██║  ██║██║███████╗███████╗             │
-│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝             │
-│                                                                     │
-│   STUDENT DEVELOPER / INDONESIA                                    │
-│                                                                     │
-│   ┌─ SYSTEM ─────────────────────────────────────────────────────┐  │
-│   │                                                             │  │
-│   │  USER        FAHRIEL122                                     │  │
-│   │  STATUS      ● ONLINE                                       │  │
-│   │  MODE        BUILD / LEARN                                  │  │
-│   │  DOMAIN      WEB · MOBILE · BACKEND · UI/UX                 │  │
-│   │  SYSTEMS     HARDWARE · OS · NETWORKING                     │  │
-│   │                                                             │  │
-│   └─────────────────────────────────────────────────────────────┘  │
-│                                                                     │
-│   > building digital systems                                       │
-│   > experimenting with technology                                  │
-│   > learning through projects                                     │
-│                                                                     │
-│   [ SYSTEM READY ]                                                 │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌─ USER PROFILE ─────────────────────────────────────────────────────┐
+│                                                                    │
+│  NAME        : FAHRIEL                                             │
+│  HANDLE      : FAHRIEL122                                          │
+│  DESIGNATION : STUDENT DEVELOPER                                   │
+│  BASE        : INDONESIA                                           │
+│  PRIMARY     : SOFTWARE / WEB / APPLICATIONS                       │
+│  SECONDARY   : HARDWARE / OS / NETWORKING                         │
+│  OPERATING   : LEARN → BUILD → DEBUG → REPEAT                      │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
-## `01 / IDENTITY PROTOCOL`
+I build software while learning the engineering behind it. My interests move between **web development, mobile apps, backend systems, databases, UI/UX, hardware, operating systems and basic networking**.
 
-I'm **Fahriel**, a vocational high-school student who likes turning ideas into working software and understanding the systems underneath the interface.
-
-I learn by **building, debugging, experimenting, and figuring out why something broke**.
-
-> `BUILD → BREAK → DEBUG → UNDERSTAND → IMPROVE`
+> `THE GOAL IS NOT TO LOOK LIKE A DEVELOPER. THE GOAL IS TO BUILD LIKE ONE.`
 
 ---
 
-## `02 / PROJECT DATABASE`
+## `// 02 — PROJECT GRID`
 
-| ID | PROJECT | DOMAIN | STACK |
-|:--:|---|---|---|
-| `001` | **[NEOVOX](https://github.com/FAHRIEL122/NEOVOX)** | Digital Product | Web · UI/UX |
-| `002` | **[UANGIN](https://github.com/FAHRIEL122/uangin)** | Application | Database · App |
-| `003` | **[SMART ATTENDANCE](https://github.com/FAHRIEL122/Smart-Attendance-System)** | System | Database · Web |
-| `004` | **[WISATA KOTA LOMBOK](https://github.com/FAHRIEL122/WisataKotaLombok)** | Information System | Laravel · PHP · MySQL |
-| `005` | **[PAVELKSTORE](https://github.com/FAHRIEL122/PavelkStore)** | Store Workflow | CRUD · Web |
-| `006` | **[FLUTTER NOTES](https://github.com/FAHRIEL122/flutter_aplikasi_catatan_dan_penyimpanan)** | Mobile | Flutter · SQLite |
+| NODE | PROJECT | CLASS | STACK |
+|:---:|---|---|---|
+| `01` | **[NEOVOX](https://github.com/FAHRIEL122/NEOVOX)** | DIGITAL PRODUCT | WEB / UI / UX |
+| `02` | **[UANGIN](https://github.com/FAHRIEL122/uangin)** | APPLICATION | APP / DATABASE |
+| `03` | **[SMART ATTENDANCE](https://github.com/FAHRIEL122/Smart-Attendance-System)** | SYSTEM | WEB / DATA |
+| `04` | **[WISATA KOTA LOMBOK](https://github.com/FAHRIEL122/WisataKotaLombok)** | INFORMATION SYSTEM | LARAVEL / PHP / MYSQL |
+| `05` | **[PAVELKSTORE](https://github.com/FAHRIEL122/PavelkStore)** | STORE SYSTEM | CRUD / WEB |
+| `06` | **[FLUTTER NOTES](https://github.com/FAHRIEL122/flutter_aplikasi_catatan_dan_penyimpanan)** | MOBILE NODE | FLUTTER / SQLITE |
 
 ---
 
-## `03 / TECH MATRIX`
-
-```text
-WEB          HTML · CSS · JavaScript · TypeScript · PHP
-BACKEND      Laravel · Node.js · Express · Next.js
-MOBILE       Flutter · Dart
-DATA         MySQL · SQLite · SQL · Data Modelling
-TOOLS        Git · GitHub · VS Code · npm · Composer · Figma
-SYSTEMS      PC Assembly · Troubleshooting · OS · Networking
-```
+## `// 03 — TECHNOLOGY MATRIX`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,laravel,nodejs,express,nextjs,flutter,mysql,sqlite,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,laravel,nodejs,express,nextjs,flutter,mysql,sqlite,git,github,vscode,figma&perline=9" />
 </div>
 
----
-
-## `04 / CURRENT MISSION`
-
 ```text
-[ ACTIVE ]  Modern Web Development
-[ ACTIVE ]  Backend Architecture
-[ ACTIVE ]  Database Engineering
-[ ACTIVE ]  UI / UX
-[ ACTIVE ]  Software Architecture
-[ ACTIVE ]  Systems & Hardware
+┌ WEB ───────────────────────┐   ┌ BACKEND ─────────────────────────┐
+│ HTML / CSS                 │   │ PHP / Laravel                    │
+│ JavaScript / TypeScript    │   │ Node.js / Express                │
+│ UI / UX                    │   │ Next.js                          │
+└────────────────────────────┘   └──────────────────────────────────┘
+
+┌ DATA ──────────────────────┐   ┌ SYSTEMS ─────────────────────────┐
+│ MySQL / SQLite / SQL       │   │ PC Assembly                      │
+│ ERD / LRS / Data Modelling │   │ OS Installation / Troubleshoot   │
+│ CRUD / Transactions        │   │ Basic Networking                 │
+└────────────────────────────┘   └──────────────────────────────────┘
 ```
 
-**Next target:** build larger real-world applications while getting stronger at the engineering behind them.
+---
+
+## `// 04 — ACTIVE MISSIONS`
+
+```text
+[■■■■■■■■■■] WEB DEVELOPMENT
+[■■■■■■■■░░] BACKEND ENGINEERING
+[■■■■■■■░░░] DATABASE SYSTEMS
+[■■■■■■■░░░] UI / UX
+[■■■■■■░░░░] MOBILE DEVELOPMENT
+[■■■■■■░░░░] SYSTEMS & HARDWARE
+```
+
+**Current objective:** turn school projects and experiments into increasingly complete, maintainable applications.
 
 ---
 
-## `05 / GITHUB TELEMETRY`
+## `// 05 — GITHUB TELEMETRY`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FAHRIEL122&show_icons=true&hide_border=true&theme=github_dark&bg_color=050505&title_color=00F0FF&text_color=CBD5E1&icon_color=FF2BD6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHRIEL122&layout=compact&hide_border=true&theme=github_dark&bg_color=050505&title_color=00F0FF&text_color=CBD5E1" />
+<img src="https://github-readme-stats.vercel.app/api?username=FAHRIEL122&show_icons=true&hide_border=true&bg_color=050505&title_color=00F0FF&text_color=CBD5E1&icon_color=FF2BD6&ring_color=00F0FF" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHRIEL122&layout=compact&hide_border=true&bg_color=050505&title_color=FF2BD6&text_color=CBD5E1" height="170" />
 <br><br>
-<img src="https://streak-stats.demolab.com?user=FAHRIEL122&theme=dark&background=050505&border=1C2733&ring=00F0FF&fire=FF2BD6&currStreakLabel=00F0FF" />
+<img src="https://streak-stats.demolab.com?user=FAHRIEL122&theme=dark&hide_border=true&background=050505&ring=00F0FF&fire=FF2BD6&currStreakLabel=B7FF00&sideLabels=7E8B94&dates=7E8B94" />
 </div>
 
 ---
 
-## `06 / BEYOND CODE`
-
-Software is one layer of a computer system. I also enjoy working with the physical and system layers behind it.
+## `// 06 — SYSTEM LAYERS`
 
 ```text
-SOFTWARE                         HARDWARE
-────────                         ────────
-Applications                     PC Assembly
-Databases                        Laptop / PC Troubleshooting
-APIs                             OS Installation
-Interfaces                       Hardware Configuration
-Architecture                     Basic Networking
+                         FAHRIEL.OS
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+          SOFTWARE          DATA           HARDWARE
+             │                │                │
+       ┌─────┼─────┐     ┌────┼────┐      ┌────┼────┐
+       │     │     │     │         │      │         │
+      WEB   APP  API    SQL      MODEL   PC        OS
+       │     │     │     │         │      │         │
+       └─────┴─────┴─────┴─────────┴──────┴─────────┘
+                              │
+                         BUILD / DEBUG
 ```
+
+I like understanding both the interface and the layers underneath it: from **frontend components and APIs** to **databases, operating systems, hardware and networking basics**.
 
 ---
 
-## `07 / DEVELOPMENT PROTOCOL`
+## `// 07 — DEVELOPMENT LOOP`
 
 ```text
-                    ┌──────────┐
-                    │   IDEA   │
-                    └────┬─────┘
-                         ↓
-                    ┌──────────┐
-                    │  DESIGN  │
-                    └────┬─────┘
-                         ↓
-                    ┌──────────┐
-                    │  BUILD   │
-                    └────┬─────┘
-                         ↓
-                    ┌──────────┐
-                    │  DEBUG   │
-                    └────┬─────┘
-                         ↓
-                    ┌──────────┐
-                    │  LEARN   │
-                    └────┬─────┘
-                         ↓
-                    ┌──────────┐
-                    │   SHIP   │
-                    └──────────┘
+      ┌──────────┐
+      │   IDEA   │
+      └────┬─────┘
+           ↓
+      ┌──────────┐
+      │  DESIGN  │
+      └────┬─────┘
+           ↓
+      ┌──────────┐
+      │  BUILD   │◄──────────────┐
+      └────┬─────┘               │
+           ↓                     │
+      ┌──────────┐               │
+      │  DEBUG   │───────────────┘
+      └────┬─────┘
+           ↓
+      ┌──────────┐
+      │  LEARN   │
+      └────┬─────┘
+           ↓
+      ┌──────────┐
+      │   SHIP   │
+      └──────────┘
 ```
 
 ---
 
 <div align="center">
 
-### `SYSTEM READY.`
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                     CONNECTION ESTABLISHED                         ║
+║                                                                      ║
+║                 BUILD SOMETHING WORTH USING.                       ║
+║                                                                      ║
+║                    [ SYSTEM STATUS: ONLINE ]                       ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-**BUILD SOMETHING USEFUL.**
-
-<a href="https://fahriel122.github.io/FAHRIEL122/">`[ ENTER DIGITAL WORKSPACE ↗ ]`</a>
-
-<br><br>
-
-`GITHUB` · `LINKEDIN` · `FAHRIEL122`
+<a href="https://fahriel122.github.io/FAHRIEL122/">`↳ ENTER FAHRIEL.OS // NIGHT NODE`</a>
 
 </div>
