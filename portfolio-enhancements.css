@@ -1,4 +1,67 @@
-/* Peningkatan visual portofolio — kartu proyek generasi baru */
-.projects{gap:18px}.project{position:relative;border-radius:2px;isolation:isolate;transform-style:preserve-3d}.project:before{content:"";position:absolute;inset:0;z-index:4;pointer-events:none;background:linear-gradient(120deg,transparent 20%,rgba(255,255,255,.07) 50%,transparent 80%);transform:translateX(-120%);transition:transform .8s ease}.project:hover:before{transform:translateX(120%)}.project:after{content:"ABRIR PROYECTO ↗";position:absolute;right:14px;top:14px;z-index:6;padding:7px 9px;border:1px solid currentColor;background:rgba(5,5,5,.55);backdrop-filter:blur(8px);font:700 7px var(--mono);letter-spacing:1px;color:inherit;opacity:0;transform:translateY(-6px);transition:.3s}.project:hover:after{opacity:1;transform:none}.project-art{height:330px}.project-art:before{opacity:.75}.project-art:after{width:210px;height:210px;box-shadow:0 0 70px currentColor}.project-art strong{font-size:clamp(50px,8vw,110px);transition:.4s transform,.4s text-shadow}.project:hover .project-art strong{transform:scale(1.06);text-shadow:0 0 25px currentColor,0 0 70px currentColor}.project-art small{z-index:3;padding:6px 8px;border-left:2px solid currentColor;background:rgba(0,0,0,.35)}.project-art span{margin-top:18px;padding:8px 12px;border:1px solid currentColor;background:rgba(0,0,0,.22);transition:.3s}.project:hover .project-art span{background:currentColor;color:#050505}.project.featured .project-art{height:380px}.project-info{position:relative;z-index:5;min-height:92px;padding:17px 18px;background:linear-gradient(180deg,#0b0b0f,#08080b)}.project-info small{color:#81798b}.project-info h3{font-size:16px;letter-spacing:-.03em}.project-info p{margin-top:5px;color:#827b88}.project-meta{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:6px;max-width:45%}.project-meta span{padding:5px 7px;border:1px solid #302c35;color:#a49cab;font:7px var(--mono);letter-spacing:.6px}.project-description{grid-column:1/-1;margin-top:4px;color:#756e7b;font-size:10px;line-height:1.6}.project-index{color:var(--purple2)!important}.project.featured{box-shadow:0 0 0 1px rgba(176,38,255,.08),0 30px 100px rgba(176,38,255,.05)}
-@media(max-width:850px){.project.featured .project-art,.project-art{height:290px}.project-meta{max-width:50%}}
-@media(max-width:520px){.project-info{display:block}.project-meta{max-width:none;justify-content:flex-start;margin-top:14px}.project-description{margin-top:8px}.project:after{display:none}}
+/* =========================================================
+   PORTOFOLIO — SISTEM KARTU PROYEK / BAHASA INDONESIA
+   Layout editorial: featured + offset cards + nomor besar
+   ========================================================= */
+
+.projects{display:grid;grid-template-columns:repeat(12,1fr);gap:22px;align-items:stretch}
+
+.project{position:relative;display:grid;grid-template-columns:1fr;overflow:hidden;min-height:540px;border:1px solid rgba(255,255,255,.09);border-radius:4px;isolation:isolate;transform-style:preserve-3d;background:#08080b;box-shadow:0 18px 60px rgba(0,0,0,.28);transition:transform .45s cubic-bezier(.2,.8,.2,1),border-color .35s,box-shadow .45s}
+.project:hover{transform:translateY(-10px) rotateX(1deg);border-color:rgba(176,38,255,.5);box-shadow:0 28px 90px rgba(176,38,255,.12),0 0 0 1px rgba(176,38,255,.08)}
+.project:nth-child(1){grid-column:span 7;min-height:650px}
+.project:nth-child(2){grid-column:span 5;margin-top:70px}
+.project:nth-child(3){grid-column:span 5;margin-top:-35px}
+.project:nth-child(4){grid-column:span 7;margin-top:35px}
+.project:nth-child(5){grid-column:span 7;margin-top:-15px}
+.project:nth-child(6){grid-column:span 5;margin-top:55px}
+
+.project:before{content:"";position:absolute;inset:0;z-index:10;pointer-events:none;background:linear-gradient(115deg,transparent 15%,rgba(255,255,255,.09) 48%,transparent 78%);transform:translateX(-130%);transition:transform .9s ease}
+.project:hover:before{transform:translateX(130%)}
+.project:after{content:"BUKA PROYEK ↗";position:absolute;right:16px;top:16px;z-index:12;padding:8px 10px;border:1px solid currentColor;background:rgba(4,4,6,.62);backdrop-filter:blur(10px);font:700 7px var(--mono);letter-spacing:1.2px;color:inherit;opacity:0;transform:translateY(-8px);transition:.3s}
+.project:hover:after{opacity:1;transform:none}
+
+.project-art{position:relative;height:350px;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;padding:24px;color:#b026ff;background:#0a0a0d}
+.project:nth-child(1) .project-art{height:430px}
+.project-art:before{content:"";position:absolute;inset:0;opacity:.8;background:linear-gradient(135deg,transparent 0 42%,currentColor 42% 43%,transparent 43% 100%),repeating-linear-gradient(90deg,transparent 0 39px,rgba(255,255,255,.035) 40px)}
+.project-art:after{content:"";position:absolute;width:240px;height:240px;right:-70px;top:-70px;border:1px solid currentColor;border-radius:50%;box-shadow:0 0 80px currentColor,0 0 150px rgba(176,38,255,.18);opacity:.45}
+.project-art strong{position:relative;z-index:2;font-size:clamp(55px,8vw,120px);line-height:.8;letter-spacing:-.09em;color:#fff;text-shadow:0 0 20px currentColor;transition:.45s transform,.45s text-shadow}
+.project:hover .project-art strong{transform:translateX(8px) scale(1.04);text-shadow:0 0 25px currentColor,0 0 70px currentColor}
+.project-art small{position:absolute;left:24px;top:24px;z-index:3;padding:7px 9px;border-left:2px solid currentColor;background:rgba(0,0,0,.45);font:700 7px var(--mono);letter-spacing:1px}
+.project-art span{position:relative;z-index:3;align-self:flex-start;margin-top:20px;padding:9px 12px;border:1px solid currentColor;background:rgba(0,0,0,.28);font:700 7px var(--mono);letter-spacing:1px;transition:.3s}
+.project:hover .project-art span{background:currentColor;color:#050505}
+
+/* Identitas visual tiap proyek */
+.project-art.cyan{color:#00e5ff}
+.project-art.pink{color:#ff4fd8}
+.project-art.green{color:#5cff9d}
+.project-art.amber{color:#ffc857}
+.project-art.red{color:#ff4d67}
+.project-art.blue{color:#5b9dff}
+
+.project-info{position:relative;z-index:5;display:flex;flex-direction:column;justify-content:space-between;gap:20px;min-height:170px;padding:21px 22px;background:linear-gradient(180deg,#0d0d11,#07070a)}
+.project-index{display:block!important;margin-bottom:7px;color:#b026ff!important;font:700 8px var(--mono)!important;letter-spacing:1.4px}
+.project-info h3{font-size:19px;line-height:1;letter-spacing:-.04em;color:#f3eef6}
+.project-info p{margin-top:7px;color:#9a929f;font-size:12px}
+.project-description{margin-top:12px;color:#6f6876;font-size:10px;line-height:1.7;max-width:620px}
+.project-meta{display:flex;flex-wrap:wrap;gap:6px;justify-content:flex-start;max-width:100%}
+.project-meta span{padding:6px 8px;border:1px solid #302c35;color:#aaa1af;background:#0b0b0f;font:7px var(--mono);letter-spacing:.7px;transition:.25s}
+.project:hover .project-meta span{border-color:#4a4050;color:#d8cce0}
+
+/* Nomor proyek raksasa sebagai elemen editorial */
+.project-info:before{content:attr(data-project);position:absolute;right:18px;bottom:-16px;font:800 100px/1 var(--mono);letter-spacing:-.12em;color:rgba(255,255,255,.025);pointer-events:none}
+
+/* Responsif */
+@media(max-width:900px){
+  .projects{grid-template-columns:repeat(2,1fr);gap:16px}
+  .project,.project:nth-child(n){grid-column:span 1;margin-top:0;min-height:500px}
+  .project:nth-child(1){grid-column:span 2;min-height:590px}
+  .project:nth-child(1) .project-art{height:380px}
+  .project-art{height:300px}
+}
+
+@media(max-width:600px){
+  .projects{display:grid;grid-template-columns:1fr}
+  .project,.project:nth-child(n),.project:nth-child(1){grid-column:1;min-height:470px;margin:0}
+  .project-art,.project:nth-child(1) .project-art{height:300px}
+  .project-info{min-height:170px;padding:18px}
+  .project:after{display:none}
+}
