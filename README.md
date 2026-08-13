@@ -4,17 +4,17 @@
 
 # MUHAMMAD FAHRIEL KURNIAWAN PUTRA
 
-`STUDENT DEVELOPER`  ·  `SOFTWARE`  ·  `SYSTEMS`  ·  `INDONESIA`
+`PELAJAR PENGEMBANG`  ·  `PERANGKAT LUNAK`  ·  `SISTEM`  ·  `INDONESIA`
 
 <br>
 
-<a href="https://fahriel122.github.io/FAHRIEL122/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0A080D?style=for-the-badge&labelColor=0A080D&color=B026FF" alt="Portfolio"></a>
-<a href="https://github.com/FAHRIEL122?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PROJECTS-0A080D?style=for-the-badge&labelColor=0A080D&color=7D26FF" alt="Projects"></a>
-<a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/"><img src="https://img.shields.io/badge/CONNECT-0A080D?style=for-the-badge&labelColor=0A080D&color=E75CFF" alt="LinkedIn"></a>
+<a href="https://fahriel122.github.io/FAHRIEL122/"><img src="https://img.shields.io/badge/JELAJAH_PORTOFOLIO-0A080D?style=for-the-badge&labelColor=0A080D&color=B026FF" alt="Portofolio"></a>
+<a href="https://github.com/FAHRIEL122?tab=repositories"><img src="https://img.shields.io/badge/LIHAT_PROYEK-0A080D?style=for-the-badge&labelColor=0A080D&color=7D26FF" alt="Proyek"></a>
+<a href="https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/"><img src="https://img.shields.io/badge/TERHUBUNG-0A080D?style=for-the-badge&labelColor=0A080D&color=E75CFF" alt="LinkedIn"></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=720&lines=BUILDING+DIGITAL+PRODUCTS;DESIGNING+SYSTEMS+THROUGH+PROJECTS;WEB+%2F+BACKEND+%2F+MOBILE;LEARNING+BY+BUILDING" alt="Currently building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=720&lines=MEMBANGUN+PRODUK+DIGITAL;MERANCANG+SISTEM+MELALUI+PROYEK;WEB+%2F+BACKEND+%2F+MOBILE;BELAJAR+DENGAN+MEMBANGUN" alt="Sedang dikerjakan" />
 
 </div>
 
@@ -22,25 +22,25 @@
 
 <div align="center">
 
-### `01`  —  PROFILE
+### `01`  —  PROFIL
 
-# BUILDING WITH PURPOSE.
+# MEMBANGUN DENGAN TUJUAN.
 
 </div>
 
-I’m **Fahriel**, a vocational high-school student focused on software development and digital systems.
+Saya **Fahriel**, seorang pelajar SMK yang berfokus pada pengembangan perangkat lunak dan sistem digital.
 
-I like working across the stack: shaping interfaces, writing application logic, designing data structures, building mobile experiences, and understanding the hardware and operating systems underneath them.
+Saya senang bekerja di berbagai bagian teknologi: merancang antarmuka, menulis logika aplikasi, menyusun struktur data, membangun pengalaman aplikasi mobile, serta memahami perangkat keras dan sistem operasi yang mendukungnya.
 
-> **Ideas are easy. Turning them into working systems is the interesting part.**
+> **Ide itu mudah. Mengubahnya menjadi sistem yang benar-benar berjalan adalah bagian yang menarik.**
 
 ---
 
 <div align="center">
 
-### `02`  —  SELECTED WORK
+### `02`  —  PROYEK PILIHAN
 
-# THINGS I'VE BUILT.
+# HAL-HAL YANG SUDAH SAYA BANGUN.
 
 </div>
 
@@ -49,21 +49,21 @@ I like working across the stack: shaping interfaces, writing application logic, 
 <td width="50%" valign="top">
 
 **01 / NEOVOX**  
-`WEB · UI/UX · PRODUCT`
+`WEB · UI/UX · PRODUK`
 
-A digital product experiment focused on interface direction, interaction, and modern web presentation.
+Eksperimen produk digital yang berfokus pada arah antarmuka, interaksi, dan penyajian web modern.
 
-**[ EXPLORE ↗ ](https://github.com/FAHRIEL122/NEOVOX)**
+**[ JELAJAHI ↗ ](https://github.com/FAHRIEL122/NEOVOX)**
 
 </td>
 <td width="50%" valign="top">
 
 **02 / SMART ATTENDANCE**  
-`SYSTEM · WEB · DATA`
+`SISTEM · WEB · DATA`
 
-An attendance-system project exploring application workflows, structured data, and practical requirements.
+Proyek sistem absensi yang mengeksplorasi alur aplikasi, pengelolaan data terstruktur, dan kebutuhan sistem dalam penggunaan nyata.
 
-**[ EXPLORE ↗ ](https://github.com/FAHRIEL122/Smart-Attendance-System)**
+**[ JELAJAHI ↗ ](https://github.com/FAHRIEL122/Smart-Attendance-System)**
 
 </td>
 </tr>
@@ -71,11 +71,11 @@ An attendance-system project exploring application workflows, structured data, a
 <td width="50%" valign="top">
 
 **03 / UANGIN**  
-`APPLICATION · DATA`
+`APLIKASI · DATA`
 
-An application project focused on information management and practical user workflows.
+Proyek aplikasi yang berfokus pada pengelolaan informasi keuangan dan alur kerja pengguna secara praktis.
 
-**[ EXPLORE ↗ ](https://github.com/FAHRIEL122/uangin)**
+**[ JELAJAHI ↗ ](https://github.com/FAHRIEL122/uangin)**
 
 </td>
 <td width="50%" valign="top">
@@ -83,9 +83,9 @@ An application project focused on information management and practical user work
 **04 / WISATA KOTA LOMBOK**  
 `LARAVEL · PHP · MYSQL`
 
-A web information system built around structured data and application workflows.
+Sistem informasi web yang dibangun dengan struktur data terorganisir dan alur aplikasi untuk informasi destinasi wisata.
 
-**[ EXPLORE ↗ ](https://github.com/FAHRIEL122/WisataKotaLombok)**
+**[ JELAJAHI ↗ ](https://github.com/FAHRIEL122/WisataKotaLombok)**
 
 </td>
 </tr>
@@ -95,7 +95,7 @@ A web information system built around structured data and application workflows.
 
 <div align="center">
 
-**MORE PROJECTS → [ REPOSITORIES ↗ ](https://github.com/FAHRIEL122?tab=repositories)**
+**PROYEK LAINNYA → [ REPOSITORI ↗ ](https://github.com/FAHRIEL122?tab=repositories)**
 
 </div>
 
@@ -103,13 +103,13 @@ A web information system built around structured data and application workflows.
 
 <div align="center">
 
-### `03`  —  TECHNOLOGY
+### `03`  —  TEKNOLOGI
 
-# THE TOOLS BEHIND THE WORK.
+# TEKNOLOGI DI BALIK PEKERJAAN.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,laravel,nodejs,express,nextjs,flutter,mysql,sqlite,git,github,vscode,figma&perline=9" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,dart,laravel,nodejs,express,nextjs,flutter,mysql,sqlite,git,github,vscode,figma&perline=9" alt="Teknologi yang digunakan" />
 
 </div>
 
@@ -134,11 +134,11 @@ Flutter · Dart
 **DATA**  
 MySQL · SQLite · SQL · ERD · LRS
 
-**TOOLS**  
+**PERALATAN**  
 Git · GitHub · VS Code · Figma · npm · Composer
 
-**SYSTEMS**  
-Hardware · OS Installation · Troubleshooting · Networking
+**SISTEM**  
+Perangkat Keras · Instalasi OS · Troubleshooting · Jaringan
 
 </td>
 </tr>
@@ -148,45 +148,45 @@ Hardware · OS Installation · Troubleshooting · Networking
 
 <div align="center">
 
-### `04`  —  NOW
+### `04`  —  SEKARANG
 
-# BUILDING · LEARNING · ITERATING
+# MEMBANGUN · BELAJAR · BERKEMBANG
 
-`WEB`  `BACKEND`  `DATABASE`  `UI / UX`  `MOBILE`  `SYSTEMS`
+`WEB`  `BACKEND`  `DATABASE`  `UI / UX`  `MOBILE`  `SISTEM`
 
 </div>
 
-The goal is not to collect technologies. The goal is to understand how they connect — then use that understanding to build something useful.
+Tujuannya bukan sekadar mengumpulkan teknologi. Tujuannya adalah memahami bagaimana semuanya saling terhubung, lalu menggunakan pemahaman tersebut untuk membangun sesuatu yang bermanfaat.
 
 ---
 
 <div align="center">
 
-### `05`  —  PROCESS
+### `05`  —  PROSES
 
-# IDEA → DESIGN → BUILD
-# DEBUG → LEARN → SHIP
+# IDE → DESAIN → BANGUN
+# DEBUG → BELAJAR → RILIS
 
 </div>
 
-Every project is another pass through the loop. Some ship clean. Some break spectacularly. Both teach something.
+Setiap proyek adalah kesempatan untuk mengulang proses tersebut. Ada yang berjalan dengan mulus, ada juga yang tiba-tiba rusak secara spektakuler. Keduanya tetap memberikan pelajaran.
 
 ---
 
 <div align="center">
 
-### `06`  —  GITHUB SIGNAL
+### `06`  —  AKTIVITAS GITHUB
 
-# CODE / ACTIVITY / PROGRESS
+# KODE / AKTIVITAS / PERKEMBANGAN
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FAHRIEL122&show_icons=true&hide_border=true&bg_color=050505&title_color=B026FF&text_color=D8D3DE&icon_color=E75CFF&ring_color=B026FF" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHRIEL122&layout=compact&hide_border=true&bg_color=050505&title_color=E75CFF&text_color=D8D3DE" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=FAHRIEL122&show_icons=true&hide_border=true&bg_color=050505&title_color=B026FF&text_color=D8D3DE&icon_color=E75CFF&ring_color=B026FF" height="165" alt="Statistik GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHRIEL122&layout=compact&hide_border=true&bg_color=050505&title_color=E75CFF&text_color=D8D3DE" height="165" alt="Bahasa pemrograman teratas" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=FAHRIEL122&theme=dark&hide_border=true&background=050505&ring=B026FF&fire=E75CFF&currStreakLabel=B026FF&sideLabels=81798A&dates=81798A" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=FAHRIEL122&theme=dark&hide_border=true&background=050505&ring=B026FF&fire=E75CFF&currStreakLabel=B026FF&sideLabels=81798A&dates=81798A" alt="Streak GitHub" />
 
 </div>
 
@@ -194,20 +194,20 @@ Every project is another pass through the loop. Some ship clean. Some break spec
 
 <div align="center">
 
-### `07`  —  CONNECT
+### `07`  —  TERHUBUNG
 
-# LET'S BUILD SOMETHING.
+# MARI MEMBANGUN SESUATU.
 
 <br>
 
-**[ GITHUB ↗ ](https://github.com/FAHRIEL122)**  ·  **[ LINKEDIN ↗ ](https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/)**  ·  **[ PORTFOLIO ↗ ](https://fahriel122.github.io/FAHRIEL122/)**
+**[ GITHUB ↗ ](https://github.com/FAHRIEL122)**  ·  **[ LINKEDIN ↗ ](https://www.linkedin.com/in/muhammad-fahriel-kurniawan-putra-21048141b/)**  ·  **[ PORTOFOLIO ↗ ](https://fahriel122.github.io/FAHRIEL122/)**
 
 <br><br>
 
-`F/122`  ·  `● BUILDING`  ·  `MUHAMMAD FAHRIEL KURNIAWAN PUTRA`
+`F/122`  ·  `● SEDANG MEMBANGUN`  ·  `MUHAMMAD FAHRIEL KURNIAWAN PUTRA`
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:B026FF,45:10061A,100:050505&section=footer" width="100%" alt="F/122 footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:B026FF,45:10061A,100:050505&section=footer" width="100%" alt="Footer F/122" />
